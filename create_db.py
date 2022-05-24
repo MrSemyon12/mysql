@@ -28,4 +28,4 @@ script = [
 for command in script:    
     mycursor.execute(command)
 
-print("Success! DB 'filmoteka' created!")
+print("Successful creation!")
